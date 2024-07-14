@@ -1,6 +1,6 @@
 # Init_to_win_it
 
-# Breeze for Hope: A website to connect vulnerable populations to items to cope with the summer heat
+# Breeze of Hope: A website to connect vulnerable populations to items to cope with the summer heat
 
 ### Overview
 
